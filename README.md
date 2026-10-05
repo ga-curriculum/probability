@@ -21,7 +21,7 @@ Learn key probability terms, apply set operations and probability rules, and sol
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | -  Define experiment, outcome, event, and sample space<br />- Calculate the union and intersection of sets.  |
+| [Slides](https://github.com/ga-curriculum/probability/blob/main/01-slides/Probability.pdf){:target="_blank"} | -  Define experiment, outcome, event, and sample space<br />- Calculate the union and intersection of sets.  |
 | [Probability ](./02-probability/) | - Apply three probability rules.<br />- Solve probability problems using simulations. |
 
 
