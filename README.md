@@ -22,7 +22,7 @@ Learn key probability terms, apply set operations and probability rules, and sol
 | Topic | Skills |
 | ------ | ------ |
 | [Slides](https://github.com/ga-curriculum/probability/blob/main/01-slides/Probability.pdf) | -  Define experiment, outcome, event, and sample space<br />- Calculate the union and intersection of sets.  |
-| [Probability ](https://colab.research.google.com/github/ga-curriculum/probability/02-probability/02-probability.ipynb)| - Apply three probability rules.<br />- Solve probability problems using simulations. |
+| [Probability ](https://colab.research.google.com/github/ga-curriculum/probability/blob/main/02-probability/02-probability.ipynb)| - Apply three probability rules.<br />- Solve probability problems using simulations. |
 
 
 ## Prerequisites
